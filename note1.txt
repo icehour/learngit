@@ -3,3 +3,4 @@ first step
  add and commit
 add 1
 add 3
+miss one line
