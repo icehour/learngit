@@ -1,0 +1,4 @@
+learn git 
+first step
+ add and commit
+
